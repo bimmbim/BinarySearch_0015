@@ -65,3 +65,9 @@ void display()
     cout << endl;
 }
 
+void binarySearch()
+{
+    char ulang;
+    
+ while (ulang == 'y' || ulang == 'Y');
+}
